@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/aldrich</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/bevan</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/nosifer</item>
+        <item>@font/paytone_one</item>
+        <item>@font/sigmar_one</item>
+    </array>
+</resources>
